@@ -1,9 +1,10 @@
-### Opa! Sou Janderson! 🌱
-
+### Opa! Sou Janderson! 👽
 
 
 
 - 🌱 Estudante de Java FullStack pela Generation
+- 🌱 Analista de Sistemas em formação
+- 🚴‍♀️ Ciclista por amor
 - 😄 Pronouns: Ele/Dele/He
 
 
