@@ -4,7 +4,7 @@
 
 - 🌱 Estudante de Java FullStack pela Generation
 - 🌱 Analista de Sistemas em formação
-- 🚴‍♀️ Ciclista por amor
+- 🚴‍♀️ Ciclista por resistência! 
 - 😄 Pronouns: Ele/Dele/He
 
 
