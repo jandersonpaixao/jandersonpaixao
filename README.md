@@ -1,10 +1,10 @@
-### Opa! Sou Janderson! 👽
+### Dale! Sou Janderson! 👽
 
 
 
-- 🌱 Estudante de Java FullStack pela Generation;
+- 🌱 Desenvolvedor Java FullStack pela Generation;
 - 🌱 Analista de Sistemas em formação;
-- 🚴‍♀️ Ciclista por resistência!;
+- 🚴‍♀️ Ciclista contra a carrocracia!;
 - 😄 Pronouns: Ele/Dele/He;
 
 
